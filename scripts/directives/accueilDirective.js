@@ -8,14 +8,6 @@ AgileGrenobleApp.directive('agAccueil', [function(selectMenu) {
 			controller: function ($scope) {
 				$scope.accesslist = [
 			      {
-			        cssid: 'sponsor',
-			        title: 'Sponsors',
-			        image: 'icon_blue_money',
-			        text :'Vous êtes une entreprise qui souhaite associer son nom à l\'une des plus importante conférence agile en France ?',
-			        scrolltarget:'sponsors',
-			        menuselected: 'sponsors'
-			      },
-			      {
 			        cssid: 'orateur',
 			        title: 'Orateurs',
 			        image: 'icon_red_speaker',

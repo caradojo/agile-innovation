@@ -1,7 +1,7 @@
 {
-  "name": "agile-grenoble-website",
+  "name": "agileinnovation",
   "version": "0.0.0",
-  "homepage": "https://github.com/caradojo/caradojo.github.io",
+  "homepage": "https://github.com/caradojo/agileinnovation",
   "authors": "",
   "license": "MIT",
   "ignore": [
@@ -12,13 +12,9 @@
     "tests"
   ],
   "devDependencies": {
-    "angular-resource": "~1.2.14",
     "angular-bootstrap": "~0.10.0",
-    "angular-route": "~1.2.14",
     "bower-skrollr": "~0.6.21",
     "jquery-waypoints": "~2.0.4",
-    "bootstrap": "~3.1.1",
-    "angular-directive.g-signin": "*",
     "angular-ui-utils": "~0.1.1"
   }
 }

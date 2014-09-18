@@ -12,10 +12,6 @@ AgileGrenobleApp.directive('agApropos', [function() {
 						            desc: 'pour l\'appel à orateur et les soumissions de sessions'
 						            },
 						            {
-						            addr:'sponsor', 
-						            desc: 'pour l\'offre de sponsoring'
-						            },
-						            {
 						            addr:'inscription', 
 						            desc: 'pour les inscriptions à la conférence'
 						            },
