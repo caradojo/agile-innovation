@@ -8,10 +8,6 @@ AgileGrenobleApp.directive('agApropos', [function() {
 			controller: function ($scope) {
 				$scope.emails = [
 						            {
-						            addr:'orateur',
-						            desc: 'pour l\'appel à orateur et les soumissions de sessions'
-						            },
-						            {
 						            addr:'inscription', 
 						            desc: 'pour les inscriptions à la conférence'
 						            },
